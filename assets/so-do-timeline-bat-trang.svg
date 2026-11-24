@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="Sơ đồ dòng thời gian làng gốm Bát Tràng từ năm 1010 tới nay">
+<title>Dòng thời gian làng gốm Bát Tràng, năm 1010 tới nay</title>
+<rect width="900" height="220" fill="#fdf8ee"/>
+<text x="30" y="30" font-family="sans-serif" font-size="18" font-weight="bold" fill="#333">Làng gốm Bát Tràng — dòng thời gian (sơ đồ minh họa tự vẽ)</text>
+<line x1="60" y1="120" x2="840" y2="120" stroke="#8a6d3b" stroke-width="3"/>
+<circle cx="120" cy="120" r="10" fill="#a94442"/><text x="120" y="155" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#333">Năm 1010*</text><text x="120" y="175" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#555">5 dòng họ từ Bồ Bát lập làng</text><text x="120" y="95" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#555">Truyền thuyết</text>
+<circle cx="340" cy="120" r="10" fill="#a94442"/><text x="340" y="155" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#333">Thế kỷ 14–15</text><text x="340" y="175" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#555">Men lam xuất hiện</text>
+<circle cx="560" cy="120" r="10" fill="#a94442"/><text x="560" y="155" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#333">Thế kỷ 15–17</text><text x="560" y="175" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#555">Hưng thịnh, xuất khẩu</text>
+<circle cx="780" cy="120" r="10" fill="#333"/><text x="780" y="155" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#333">Ngày nay</text><text x="780" y="175" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#555">Lò gas, chợ gốm, du lịch</text>
+<text x="30" y="210" font-family="sans-serif" font-size="12" fill="#777">*Năm 1010 là mốc theo truyền thuyết và gia phả; một số tài liệu xem thế kỷ 14–15 mới là thời gian hình thành làng — xem Bài 11.</text>
+</svg>
