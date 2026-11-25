@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-label="Sơ đồ dòng thời gian làng đúc đồng Đại Bái từ đầu thế kỷ XI tới nay">
 <title>Dòng thời gian làng đúc đồng Đại Bái, đầu thế kỷ XI tới nay</title>
 <rect width="900" height="240" fill="#fdf8ee"/>
-<text x="30" y="30" font-family="sans-serif" font-size="18" font-weight="bold" fill="#333">Làng đúc đồng Đại Bái — dòng thời gian (sơ đồ minh họa tự vẽ)</text>
+<text x="30" y="30" font-family="sans-serif" font-size="18" font-weight="bold" fill="#333">Làng đúc đồng Đại Bái — dòng thời gian (sơ đồ minh họa được vẽ riêng cho website)</text>
 <line x1="60" y1="130" x2="840" y2="130" stroke="#8a6d3b" stroke-width="3"/>
 <circle cx="90" cy="130" r="10" fill="#a94442"/><text x="90" y="105" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#333">Đầu TK XI*</text><text x="90" y="165" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#555">Nguyễn Công Truyền</text><text x="90" y="183" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#555">mở lò truyền nghề</text>
 <circle cx="225" cy="130" r="10" fill="#a94442"/><text x="225" y="105" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#333">1069*</text><text x="225" y="165" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#555">Tổ nghề mất ngày</text><text x="225" y="183" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#555">29/9 năm Kỷ Dậu</text>
