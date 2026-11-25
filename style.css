@@ -20,7 +20,7 @@ table { border-collapse: collapse; width: 100%; margin: 16px 0; font-size: 16px;
 th, td { border: 1px solid #bbb; padding: 8px 10px; text-align: left; vertical-align: top; }
 th { background: #fdf8ee; }
 figure { margin: 20px 0; }
-figure img { max-width: 100%; height: auto; display: block; }
+figure img { width: 100%; max-width: 100%; height: auto; display: block; }
 figcaption { font-size: 15px; color: #555; margin-top: 6px; }
 ul, ol { padding-left: 24px; }
 li { margin-bottom: 6px; }
@@ -40,3 +40,5 @@ footer.site nav ul { list-style: none; margin: 0 0 8px; padding: 0;
   h2 { font-size: 20px; }
   table { font-size: 14px; }
 }
+a{overflow-wrap:anywhere}
+main{overflow-wrap:anywhere}
