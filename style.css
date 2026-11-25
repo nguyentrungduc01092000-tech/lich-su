@@ -1,6 +1,6 @@
 /* style.css — website #16, HTML tĩnh, không tài nguyên ngoài */
 * { box-sizing: border-box; }
-body { margin: 0; font-family: Georgia, "Times New Roman", serif; font-size: 18px;
+body { margin: 0; font-family: system-ui, "Segoe UI", Roboto, Arial, sans-serif; font-size: 18px;
   line-height: 1.7; color: #222; background: #fff; }
 a { color: #1a5fb4; }
 a:visited { color: #5b3a8a; }
